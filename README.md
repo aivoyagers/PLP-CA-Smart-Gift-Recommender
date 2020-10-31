@@ -23,7 +23,7 @@ This would simplify the user decision making and also help them to have a pleasa
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  |Email (Optional) |
+| Official Full Name  | Student ID (MTech Artificial Intelligence (IS))  |Email (Optional) |
 | :------------ |:---------------:| :-----|
 | SUDALAIANDI RAJA SUDALAIMUTHU | A0195338U | E0384969@u.nus.edu |
 | JAYARAMAN REVATHI | A0195357R | E0384988@u.nus.edu |

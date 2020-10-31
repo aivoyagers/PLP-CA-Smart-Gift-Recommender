@@ -13,9 +13,10 @@ A conversational user interface (ChatBot) for the purpose of recommending gifts 
 -->
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 The objective was to build a smart gift recommender chatbot which would:
-*1.	Recommend gifts based on a few user parameters. The recommendation would be based on the user intent, aspects of the product, sentiment analysis of the reviews and the ratings given to the product.
 
-*2.	List the top 5 gift products with price and features and the website link.
++ Recommend gifts based on a few user parameters. The recommendation would be based on the user intent, aspects of the product, sentiment analysis of the reviews and the ratings given to the product.
+
++ List the top 5 gift products with price and features and the website link.
 This would simplify the user decision making and also help them to have a pleasant shopping experience.
 
 

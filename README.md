@@ -23,12 +23,12 @@ This would simplify the user decision making and also help them to have a pleasa
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
-| SUDALAIANDI RAJA SUDALAIMUTHU | A0195338U |OptaPlanner Solver configuration, Class Diagram, Data Model, Drools Rules development for Constraints, Systems Architecture, Project video, Input Data Preparation and revision to Report, Userguide and Readme | E0384969@u.nus.edu |
-| JAYARAMAN REVATHI | A0195357R | Webpage Design and Client Side Programming, Google Map Plotting, Integration of webpage to KIE Server | E0384988@u.nus.edu |
-| JAYASRI RAGHUNATHAN | A0005978U | ParseHub Web Scraping, Randomize Input data generation, Async Javascript web Client Programming | E0384183@u.nus.edu |
-| SUNIL VARGHESE | A0195247W | Final Submission Report, User Guide, Readme  | E0384878@u.nus.edu |
+| Official Full Name  | Student ID (MTech Applicable)  |Email (Optional) |
+| :------------ |:---------------:| :-----|
+| SUDALAIANDI RAJA SUDALAIMUTHU | A0195338U | E0384969@u.nus.edu |
+| JAYARAMAN REVATHI | A0195357R | E0384988@u.nus.edu |
+| JAYASRI RAGHUNATHAN | A0005978U | E0384183@u.nus.edu |
+| SUNIL VARGHESE | A0195247W | E0384878@u.nus.edu |
 
 
 ---
